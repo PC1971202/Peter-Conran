@@ -12,11 +12,11 @@
         <style>
       <h1 style="text-align: centre;">My First Website</h1>
       </style>
-        <h2>Testing</h2>
-        <h3>Testing</h3>
-        <h4>Testing</h4>
-        <h5>Testing</h5>
-        <h6>Testing</h6>
+        <h2>PERSONAL INFORMATION</h2>
+        <h2>INTEREST IN I.T.</h2>
+        <h2>IDEAL JOB</h2>
+        <h2>PROFILE</h2>
+        <h2>PROJECT IDEAS</h2>
 
     My website Testing
 
