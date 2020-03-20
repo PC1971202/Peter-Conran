@@ -8,9 +8,6 @@
     </centre>
     </head>
 
-    <body style=background-color:red">
-
-  
         <style>
       <h1 style="text-align: centre;">My First Website</h1>
       </style>
