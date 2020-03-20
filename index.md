@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+<DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <centre>
+    <title>My First Website</title>
+    </centre>
+    </head>
 
-You can use the [editor on GitHub](https://github.com/PC1971202/RMIT-Uni-Work/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <body style=background-color:red">
+        <style>
+      <h1 style="text-align: centre;">My First Website</h1>
+      </style>
+        <h2>Testing</h2>
+        <h3>Testing</h3>
+        <h4>Testing</h4>
+        <h5>Testing</h5>
+        <h6>Testing</h6>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    My website Testing
 
-### Markdown
+    <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sollicitudin orci. Donec accumsan quam et rutrum malesuada. Sed et ligula finibus, fermentum eros at, elementum est. Duis faucibus elementum mauris, et suscipit nisi lobortis at. Suspendisse gravida venenatis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce facilisis eros sapien, at fringilla eros faucibus sit amet. Integer ac orci mi. Vestibulum aliquet nulla tellus, vel vehicula sapien pulvinar sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu tellus non ipsum aliquam ultricies eget eu dolor. Vivamus eu mi ac lectus sagittis egestas ac vitae nisi. Aliquam erat volutpat.
+    </p>
+    <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sollicitudin orci. Donec accumsan quam et rutrum malesuada. Sed et ligula finibus, fermentum eros at, elementum est. Duis faucibus elementum mauris, et suscipit nisi lobortis at. Suspendisse gravida venenatis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce facilisis eros sapien, at fringilla eros faucibus sit amet. Integer ac orci mi. Vestibulum aliquet nulla tellus, vel vehicula sapien pulvinar sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu tellus non ipsum aliquam ultricies eget eu dolor. Vivamus eu mi ac lectus sagittis egestas ac vitae nisi. Aliquam erat volutpat.
+    </p>
+    <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sollicitudin orci. Donec accumsan quam et rutrum malesuada. Sed et ligula finibus, fermentum eros at, elementum est. Duis faucibus elementum mauris, et suscipit nisi lobortis at. Suspendisse gravida venenatis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce facilisis eros sapien, at fringilla eros faucibus sit amet. Integer ac orci mi. Vestibulum aliquet nulla tellus, vel vehicula sapien pulvinar sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu tellus non ipsum aliquam ultricies eget eu dolor. Vivamus eu mi ac lectus sagittis egestas ac vitae nisi. Aliquam erat volutpat.
+    </p>
+<br>
+    <img src="https://via.placeholder.com/150">
+</br>
+  <p>
+  <img src="0e78b10afdbfe94d5cfae518db3fb4ad.jpg" border="10">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ </p>
+        <ul>
+            <li>apples
+            <li>oranges</li>
+            <li>pineapples</li>
+            <li>mangoes</li>
+            <li>dragonfruit</li>
+        </ul>
+<br>
+<ol>
+      <li>pineapples<ul>
+      <li> golden delicious</li>
+      <li> granny smith</li>
+  </ul>
+    </li>
+    <li>oranges</li>
+    <li>pineapples</li>
+    <li>mangoes</li>
+    <li>dragonfruit</li>
+</ol>
+</br>
 
-```markdown
-Syntax highlighted code block
+<table border="10" cellpadding="10" cellspacing="10">
+<tr>
+  <th>month</th>
+  <th>rent</th>
+  <th>utilities</th>
+  <th>groceries</th>
+  <th>eating out</th>
+  <th>entertaining</th>
+</tr>
+  <tr>
+  <td>August</td>
+  <td>$1500</td>
+  <td>$150</td>
+  <td>$350</td>
+  <td>$100</td>
+  <td>$50</td>
+</tr>
 
-# Header 1
-## Header 2
-### Header 3
+</table>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PC1971202/RMIT-Uni-Work/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    </body>
+</html>
