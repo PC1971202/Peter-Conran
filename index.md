@@ -8,7 +8,9 @@
     </centre>
     </head>
 
-       <img src="0e78b10afdbfe94d5cfae518db3fb4ad.jpg" border="10">
+<br>
+    <img src="https://via.placeholder.com/150">
+</br>
        
     
         <h2>PERSONAL INFORMATION</h2>
