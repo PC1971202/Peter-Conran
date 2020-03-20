@@ -8,16 +8,8 @@
     </centre>
     </head>
 
-        <style>
-      <h1 style="text-align: centre;">My First Website</h1>
-      </style>
-      <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <centre>
-    <title>My First Website</title>
-    </centre>
-    </head>
+       <img src="0e78b10afdbfe94d5cfae518db3fb4ad.jpg" border="10">
+       
     
         <h2>PERSONAL INFORMATION</h2>
         <p>
