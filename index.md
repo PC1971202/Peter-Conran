@@ -11,6 +11,14 @@
         <style>
       <h1 style="text-align: centre;">My First Website</h1>
       </style>
+      <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <centre>
+    <title>My First Website</title>
+    </centre>
+    </head>
+    
         <h2>PERSONAL INFORMATION</h2>
         <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sollicitudin orci. Donec accumsan quam et rutrum malesuada. Sed et ligula finibus, fermentum eros at, elementum est. Duis faucibus elementum mauris, et suscipit nisi lobortis at. Suspendisse gravida venenatis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce facilisis eros sapien, at fringilla eros faucibus sit amet. Integer ac orci mi. Vestibulum aliquet nulla tellus, vel vehicula sapien pulvinar sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu tellus non ipsum aliquam ultricies eget eu dolor. Vivamus eu mi ac lectus sagittis egestas ac vitae nisi. Aliquam erat volutpat.
