@@ -1,14 +1,6 @@
-<DOCTYPE html>
-<html>
-    <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <centre>
-    <title>My First Website</title>
-    </centre>
-    </head>
 
-    <body style=background-color:red>
+
+  
         <style>
       <h1 style="text-align: centre;">My First Website</h1>
       </style>
