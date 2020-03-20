@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <centre>
-    <title>My First Website</title>
+    <title>PETE CONRAN</title>
     </centre>
     </head>
 
