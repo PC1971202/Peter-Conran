@@ -14,7 +14,16 @@
     
         <h2>PERSONAL INFORMATION</h2>
         <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sollicitudin orci. Donec accumsan quam et rutrum malesuada. Sed et ligula finibus, fermentum eros at, elementum est. Duis faucibus elementum mauris, et suscipit nisi lobortis at. Suspendisse gravida venenatis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce facilisis eros sapien, at fringilla eros faucibus sit amet. Integer ac orci mi. Vestibulum aliquet nulla tellus, vel vehicula sapien pulvinar sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu tellus non ipsum aliquam ultricies eget eu dolor. Vivamus eu mi ac lectus sagittis egestas ac vitae nisi. Aliquam erat volutpat.
+  RMIT Student number: S3858526
+Email: s3858526@student.rmit.edu.au
+49 year old sound engineer
+Australian
+Diploma of Sound Engineering – School of Audio Engineering
+Diploma of Screen and Media – Wollongong Tafe
+Advanced Diploma of Screen and Media – Wollongong Tafe
+Bachelor of Communications – Griffith University
+Hobbies: I enjoy 5.1 audio, cinema and oxygen.
+
     </p>
         <h2>INTEREST IN I.T.</h2>
         <p>
