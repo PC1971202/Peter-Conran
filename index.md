@@ -23,7 +23,38 @@
   <td>RMIT Student number:</td>
   <td>S3858526</td>
 </tr>
-
+<tr>
+  <td>Age:</td>
+  <td>49</td>
+</tr>
+<tr>
+  <td>Occupation:</td>
+  <td>Sound Engineer</td>
+</tr>
+<tr>
+  <td>Nationality:</td>
+  <td>Australian</td>
+</tr>
+<tr>
+  <td>Qualifications:</td>
+  <td>1992 - Diploma of Audio Engineering - SAE</td>
+</tr>
+<tr>
+  <td>:</td>
+  <td>2015 - Diploma of Screen and Media - Wollongong TAFE</td>
+</tr>
+<tr>
+  <td>:</td>
+  <td>2016 - Advanced Diploma of Screen and Media - Wollongong TAFE</td>
+</tr>
+<tr>
+  <td>:</td>
+  <td>2020 - Bachelor of Communications</td>
+</tr>
+<tr>
+  <td>Hobbies:</td>
+  <td>I enjoy 5.1 audio, making music, cinema and oxygen</td>
+</tr>
 </table>
         </p>
         <p>
