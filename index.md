@@ -63,66 +63,21 @@ The program software would be loadable into an existing GPS unit such as the one
     </p>
     <h3>Tools and Technologies</h3>
     <p>
-    FODSports 5 Inch Motorcycle Bluetooth Waterproof GPS Navigation for Car/Motorbike - Running Windows CE and relatively inexpensive, this unit is perfect for what is required.
-      Bluetooth Radar – This is a windows program for Bluetooth connections, though I’m not sure if I need this.
-      APK Pure Designer Tools – This app developer would be used to design the app for the mobile. It would need to be able to access the weather sites and connect through the phone to the GPS to pass data back and forth when required.
+    FODSports 5 Inch Motorcycle Bluetooth Waterproof GPS Navigation for Car/Motorbike - Running Windows CE and relatively inexpensive, this unit is perfect for what is required.<br>
+      Bluetooth Radar – This is a windows program for Bluetooth connections, though I’m not sure if I need this.<br>
+      APK Pure Designer Tools – This app developer would be used to design the app for the mobile. It would need to be able to access the weather sites and connect through the phone to the GPS to pass data back and forth when required.<br>
       Eclipse IDE for Java Developers – This will be used for the bulk of the programming.
     </p>
     <h3>Skills Required</h3>
     <p>
-    
+    To start, analytical skills are needed to break the idea down in order to determine how to work on it. Creativity would be used to design the GUI that would give the rider the information they need. This type of idea would require multiple people working on different aspects of it, so a thorough knowledge of the programming language for what they’re working on, coupled with good communication skills are required. Once written, there would need to be skills in problem solving to troubleshoot any problems and be able to finalise a working product, both in functionality and usefulness. 
     </p>
     <h3>Outcome</h3>
     <p>
-    
+    The best outcome would be a working GPS program for motorcycle riders that would fill a hole in the market by also factoring weather conditions into every ride. In my experience, I have yet to find a motorcycle GPS unit that does this. Advancement like this would prove very popular with motorcyclists worldwide. Up to date weather information is impossible to access while riding and yet it is the most necessary information needed. This app would pave the way for other developments, such as snow or black ice warnings.
     </p>
 
-   <img src="https://scontent.fsyd4-1.fna.fbcdn.net/v/t31.0-8/11103136_10152773909648176_6000494330425648119_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_eui2=AeGcJ6ZhgIN7qa8Xav_2bRri-jFOp-moCkVMJ_xCYnTVoWOa8SPcxiR68UeuNADe4yibe5McwqQf0T3LY_4fwnTV3dIQluTrPSucfQp-jPlZEA&_nc_ohc=fbWW2sOopW0AX-hZsif&_nc_ht=scontent.fsyd4-1.fna&oh=90aa241a616c746ce304dd95b835e11e&oe=5E9A9FF3">
 
-  <p>
-  
-
- </p>
-        <ul>
-            <li>apples
-            <li>oranges</li>
-            <li>pineapples</li>
-            <li>mangoes</li>
-            <li>dragonfruit</li>
-        </ul>
-<br>
-<ol>
-      <li>pineapples<ul>
-      <li> golden delicious</li>
-      <li> granny smith</li>
-  </ul>
-    </li>
-    <li>oranges</li>
-    <li>pineapples</li>
-    <li>mangoes</li>
-    <li>dragonfruit</li>
-</ol>
-</br>
-
-<table border="10" cellpadding="10" cellspacing="10">
-<tr>
-  <th>month</th>
-  <th>rent</th>
-  <th>utilities</th>
-  <th>groceries</th>
-  <th>eating out</th>
-  <th>entertaining</th>
-</tr>
-  <tr>
-  <td>August</td>
-  <td>$1500</td>
-  <td>$150</td>
-  <td>$350</td>
-  <td>$100</td>
-  <td>$50</td>
-</tr>
-
-</table>
 
     </body>
 </html>
