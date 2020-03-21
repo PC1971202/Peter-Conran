@@ -73,7 +73,10 @@
         <img src="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/90138009_10157189403013176_4162586349418840064_n.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_eui2=AeFGbrNAkHZiLPb8lgoO0Vb2Ja0aZg9h30bRZ7N-IXFiWGYpnQiMIvdT1lpqaF8LTPbylnoCvai9o6ylQR6tX54JXR0RI92rN3p7yUQ66MHq2Q&_nc_ohc=m6TnIKX3QUcAX8F-Y4N&_nc_ht=scontent-sin6-1.xx&oh=8731f388c5722b20b80ae59476e0082f&oe=5E9B20A9">
         <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/90211300_10157189402983176_6879279504896819200_n.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_eui2=AeGrWpDz138duw1zXxYSAZFZas2j0CaSCHgc8RLiXC7BCuHxDyNj1Bq9axFv-Tfzf3XF2Cjbvk8xMVa0ICNjnUsPesa9i9JrObJLqYqrNDthcw&_nc_ohc=vnoi3A_g134AX8qwdo2&_nc_ht=scontent-sin6-2.xx&oh=6038bf23426addf5a329748ddf233aec&oe=5E9959FD">
         <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sollicitudin orci. Donec accumsan quam et rutrum malesuada. Sed et ligula finibus, fermentum eros at, elementum est. Duis faucibus elementum mauris, et suscipit nisi lobortis at. Suspendisse gravida venenatis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce facilisis eros sapien, at fringilla eros faucibus sit amet. Integer ac orci mi. Vestibulum aliquet nulla tellus, vel vehicula sapien pulvinar sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu tellus non ipsum aliquam ultricies eget eu dolor. Vivamus eu mi ac lectus sagittis egestas ac vitae nisi. Aliquam erat volutpat.
+    https://www.seek.com.au/job/41184943?type=standard#searchRequestToken=89dbfeb3-bc4b-4788-b1ed-11741dd0ad42
+<p>
+Although I’m relatively new to this industry, my current choice of position would be I.T. Project Manager. I like the idea of coordinating multiple inputs by different people into one cohesive product or service. But this job would require knowledge of all aspects of the technology and service involved and while this would require a large amount of my own knowledge coupled with research, unfortunately I’m a long way away from this type of position at the moment. The I.T. Technical side is what I’m currently lacking, though I do have skills in organisation and communication that would be utilised.
+
     </p>
         <h2>PROFILE</h2>
         <p>
