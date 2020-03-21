@@ -64,18 +64,7 @@
 </tr>
 </table>
         </p>
-        <p>
-  <h4>RMIT Student number:</h4> S3858526<br>
-Email: s3858526@student.rmit.edu.au<br>
-49 year old sound engineer<br>
-Nationality: Australian<br>
-Qualifications: Diploma of Sound Engineering – School of Audio Engineering<br>
-Diploma of Screen and Media – Wollongong Tafe<br>
-Advanced Diploma of Screen and Media – Wollongong Tafe<br>
-Bachelor of Communications – Griffith University<br>
-Hobbies: I enjoy 5.1 audio, cinema and oxygen.<br>
 
-    </p>
         <h2>INTEREST IN I.T.</h2>
         <p>
     Computers weren’t readily available when I was younger. Even in the 80s when the home computer became available, they were still relatively expensive and out of the price range of most households. As they were highly limited in their ability (no internet in those days, very few programs), most families instead invested in the cheaper alternative; video game consoles. It wasn’t until the late 90s when home computers lowered in price and opened up a whole new world for me. As I worked in the sound industry, the ability to record digitally and do non-destructive editing was a major breakthrough as well as the creation of ‘in-the-box’ mixing. This, combined with the internet, opened my eyes to how the world was changing. Unfortunately, years of doing live sound has resulted in 2 back surgeries so it’s time for a change of career.  20 years of troubleshooting and organisational skills are ready to be transferred to a new occupation. 
