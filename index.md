@@ -131,7 +131,7 @@
 
 <h2>REFERENCES</h2>
 
-2018, ’Number of motorcycles on register in Australia in 2018, by state’,statista.com, viewed 17 March 2020, <<a href="https://www.statista.com/statistics/824844/australia-number-of-registered-motorcycles"</a>https://www.statista.com/statistics/824844/australia-number-of-registered-motorcycles>.
+2018, ’Number of motorcycles on register in Australia in 2018, by state’,statista.com, viewed 17 March 2020, <a href="https://www.statista.com/statistics/824844/australia-number-of-registered-motorcycles"</a><https://www.statista.com/statistics/824844/australia-number-of-registered-motorcycles>.
 
 <p>
 2020, ‘Designer Tools’, Sheff’s Blend, apkpure.com, viewed 17 March 2020, <https://apkpure.com/designer-tools/com.scheffsblend.designertools>.
