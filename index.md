@@ -14,6 +14,19 @@
     
         <h2>PERSONAL INFORMATION</h2>
         <p>
+        <table border="10" cellpadding="10" cellspacing="10">
+<tr>
+  <th>Name</th>
+  <th>Peter Conran</th>
+</tr>
+  <tr>
+  <td>RMIT Student number:</td>
+  <td>S3858526</td>
+</tr>
+
+</table>
+        </p>
+        <p>
   <h4>RMIT Student number:</h4> S3858526<br>
 Email: s3858526@student.rmit.edu.au<br>
 49 year old sound engineer<br>
