@@ -108,11 +108,11 @@
     <h3>Tools and Technologies</h3>
     <p>
     FODSports 5 Inch Motorcycle Bluetooth Waterproof GPS Navigation for Car/Motorbike - Running Windows CE and relatively inexpensive, this unit is perfect for what is required.<br>
-    </br>
+    
       Bluetooth Radar – This is a windows program for Bluetooth connections, though I’m not sure if I need this.<br>
-      </br>
+      
       APK Pure Designer Tools – This app developer would be used to design the app for the mobile. It would need to be able to access the weather sites and connect through the phone to the GPS to pass data back and forth when required.<br>
-      </br>
+      
       Eclipse IDE for Java Developers – This will be used for the bulk of the programming.
     </p>
     <h3>Skills Required</h3>
