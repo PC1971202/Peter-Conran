@@ -45,11 +45,13 @@ Hobbies: I enjoy 5.1 audio, cinema and oxygen.<br>
     </p>
     Motivation
     <p>
-    In 2018, it was estimate that there were around 861,000 registered motorcycles in Australia. As a rider myself, I have often taken long rides such as Wollongong to Melbourne and Wollongong to Noosa. Since these rides cover a great distance and take a great deal of time, I’ve often found myself having to check the weather reports for other towns along the ride and then calculating where I will be and at what time to see whether I encounter any rain.  It can be time-consuming and require a fair bit of calculating, so an easier way is needed. 
+    In 2018, it was estimated that there were around 861,000 registered motorcycles in Australia. As a rider myself, I have often taken long rides such as Wollongong to Melbourne and Wollongong to Noosa. Since these rides cover a great distance and take a great deal of time, I’ve often found myself having to check the weather reports for other towns along the ride and then calculating where I will be and at what time to see whether I encounter any rain.  It can be time-consuming and require a fair bit of calculating, so an easier way is needed. 
     </p>
+    Description
     <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sollicitudin orci. Donec accumsan quam et rutrum malesuada. Sed et ligula finibus, fermentum eros at, elementum est. Duis faucibus elementum mauris, et suscipit nisi lobortis at. Suspendisse gravida venenatis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce facilisis eros sapien, at fringilla eros faucibus sit amet. Integer ac orci mi. Vestibulum aliquet nulla tellus, vel vehicula sapien pulvinar sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu tellus non ipsum aliquam ultricies eget eu dolor. Vivamus eu mi ac lectus sagittis egestas ac vitae nisi. Aliquam erat volutpat.
     </p>
+    <b>Tools and Technologies</b>
 
    <img src="https://scontent.fsyd4-1.fna.fbcdn.net/v/t31.0-8/11103136_10152773909648176_6000494330425648119_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_eui2=AeGcJ6ZhgIN7qa8Xav_2bRri-jFOp-moCkVMJ_xCYnTVoWOa8SPcxiR68UeuNADe4yibe5McwqQf0T3LY_4fwnTV3dIQluTrPSucfQp-jPlZEA&_nc_ohc=fbWW2sOopW0AX-hZsif&_nc_ht=scontent.fsyd4-1.fna&oh=90aa241a616c746ce304dd95b835e11e&oe=5E9A9FF3">
 
