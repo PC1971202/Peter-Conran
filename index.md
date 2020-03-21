@@ -133,20 +133,28 @@
 
 2018, ’Number of motorcycles on register in Australia in 2018, by state’,statista.com, viewed 17 March 2020, <https://www.statista.com/statistics/824844/australia-number-of-registered-motorcycles/>.
 
+<p>
 2020, ‘Designer Tools’, Sheff’s Blend, apkpure.com, viewed 17 March 2020, <https://apkpure.com/designer-tools/com.scheffsblend.designertools>.
-
+  </p>
+<p>
 2020, ‘Eclipse IDE for Java Developers’, eclipse.org, viewed 17 March 2020, <https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers>.
-
+ </p>  
+<p>
 2020, ’Fodsports 5 Inch Motorcycle Bluetooth Waterproof GPS Navigation for Car/Motorbike Windows CE’, fodsportsclub.com, viewed 17 March 2020, <https://www.fodsportsclub.com/product/5.html>.
-
+  </p> 
+<p>
 2020, ’Project management Guide FAQ’, wrike.com, viewed 17 March 2020, <https://www.wrike.com/project-management-guide/faq/what-is-an-it-project-manager/>.
-
+   </p>
+<p>
 Psyche Central Staff 2020, ‘Start Your Free 16-Type Jungian Personality Test’, psychecentral.com, viewed 20 March 2020, <https://psychcentral.com/quizzes/personality/start.php>.
-
+   </p>
+<p>
 Raiten, Shai 2015, Bluetooth radar 2.2’, bluetooth-radar. en.lo4d.com, viewed 15 March 2020, <https://bluetooth-radar.en.lo4d.com/windows>.
-
+   </p>
+<p>
 Soar Learning Inc 2020, Learning Style Assessment’, how-to-study.com, viewed 20 March 2020, <https://www.how-to-study.com/learning-style-assessment/>.
-
+   </p>
+<p>
 Warren Hamish 2020, ‘Take this test to see if you can become a professional programmer’, switchup.org, viewed 20 March 2020, <https://www.switchup.org/blog/take-this-test-to-see-if-you-can-become-a-professional-programmer>.
 
     
