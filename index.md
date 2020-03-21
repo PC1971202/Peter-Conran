@@ -40,15 +40,15 @@
   <td>1992 - Diploma of Audio Engineering - SAE</td>
 </tr>
 <tr>
-  <td>:</td>
+  <td></td>
   <td>2015 - Diploma of Screen and Media - Wollongong TAFE</td>
 </tr>
 <tr>
-  <td>:</td>
+  <td></td>
   <td>2016 - Advanced Diploma of Screen and Media - Wollongong TAFE</td>
 </tr>
 <tr>
-  <td>:</td>
+  <td></td>
   <td>2020 - Bachelor of Communications</td>
 </tr>
 <tr>
