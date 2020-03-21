@@ -74,8 +74,8 @@
         <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/90211300_10157189402983176_6879279504896819200_n.jpg?_nc_cat=108&_nc_sid=e007fa&_nc_eui2=AeGrWpDz138duw1zXxYSAZFZas2j0CaSCHgc8RLiXC7BCuHxDyNj1Bq9axFv-Tfzf3XF2Cjbvk8xMVa0ICNjnUsPesa9i9JrObJLqYqrNDthcw&_nc_ohc=vnoi3A_g134AX8qwdo2&_nc_ht=scontent-sin6-2.xx&oh=6038bf23426addf5a329748ddf233aec&oe=5E9959FD">
         <p>
     https://www.seek.com.au/job/41184943?type=standard#searchRequestToken=89dbfeb3-bc4b-4788-b1ed-11741dd0ad42
-<p>
-Although I’m relatively new to this industry, my current choice of position would be I.T. Project Manager. I like the idea of coordinating multiple inputs by different people into one cohesive product or service. But this job would require knowledge of all aspects of the technology and service involved and while this would require a large amount of my own knowledge coupled with research, unfortunately I’m a long way away from this type of position at the moment. The I.T. Technical side is what I’m currently lacking, though I do have skills in organisation and communication that would be utilised.
+      <p>
+      Although I’m relatively new to this industry, my current choice of position would be I.T. Project Manager. I like the idea of coordinating multiple inputs by different people into one cohesive product or service. But this job would require knowledge of all aspects of the technology and service involved and while this would require a large amount of my own knowledge coupled with research, unfortunately I’m a long way away from this type of position at the moment. The I.T. Technical side is what I’m currently lacking, though I do have skills in organisation and communication that would be utilised.
 
     </p>
         <h2>PROFILE</h2>
