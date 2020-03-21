@@ -80,7 +80,7 @@
     </p>
         <h2>PROFILE</h2>
         <p>
-    My usual approach to any situation is from a logical standpoint. As an ISTJ (Psyche Central, 2020), working through any process needs to be orderly and considerate of all factors. I have a visual learning style (how-to-study.com, 2020) which means I learn by seeing something in action or done in front of me rather than rely solely on a description. I also have a 3.40 score in a Grit test (switchup.org, 2020) which suggests I would be suitable to be a programmer. Together, these tests would help greatly in any team exercise to both keep a project on track and work through any problems that might arise.
+    My usual approach to any situation is from a logical standpoint. As an I-S-T-J (Psyche Central, 2020), working through any process needs to be orderly and considerate of all factors. I have a visual learning style (how-to-study.com, 2020) which means I learn by seeing something in action or done in front of me rather than rely solely on a description. I also have a 3.40 score in a Grit test (switchup.org, 2020) which suggests I would be suitable to be a programmer. Together, these tests would help greatly in any team exercise to both keep a project on track and work through any problems that might arise.
     </p>
         <h2>PROJECT IDEAS</h2>
         
@@ -90,7 +90,7 @@
     </p>
     <h3>Motivation</h3>
     <p>
-    In 2018, it was estimated that there were around 861,000 registered motorcycles in Australia. As a rider myself, I have often taken long rides such as Wollongong to Melbourne and Wollongong to Noosa. Since these rides cover a great distance and take a great deal of time, I’ve often found myself having to check the weather reports for other towns along the ride and then calculating where I will be and at what time to see whether I encounter any rain.  It can be time-consuming and require a fair bit of calculating, so an easier way is needed. 
+    In 2018, it was estimated that there were around 861,000 registered motorcycles in Australia accorging to the website statista.com (2018). As a rider myself, I have often taken long rides such as Wollongong to Melbourne and Wollongong to Noosa. Since these rides cover a great distance and take a great deal of time, I’ve often found myself having to check the weather reports for other towns along the ride and then calculating where I will be and at what time to see whether I encounter any rain.  It can be time-consuming and require a fair bit of calculating, so an easier way is needed. 
     </p>
     <h3>Description</h3>
     <p>
@@ -112,17 +112,17 @@
     </p>
     <h3>Tools and Technologies</h3>
     <p>
-    FODSports 5 Inch Motorcycle Bluetooth Waterproof GPS Navigation for Car/Motorbike - Running Windows CE and relatively inexpensive, this unit is perfect for what is required.
+    FODSports 5 Inch Motorcycle Bluetooth Waterproof GPS Navigation for Car/Motorbike (fodsportsclub.com 2020) - Running Windows CE and relatively inexpensive, this unit is perfect for what is required.
     <p>
-      Bluetooth Radar – This is a windows program for Bluetooth connections, though I’m not sure if I need this.<br>
+      Bluetooth Radar (Raiten 2015) – This is a windows program for Bluetooth connections, though I’m not sure if I need this.<br>
       <p>
-      APK Pure Designer Tools – This app developer would be used to design the app for the mobile. It would need to be able to access the weather sites and connect through the phone to the GPS to pass data back and forth when required.<br>
+      APK Pure Designer Tools (Sheff's Blend 2020)– This app developer would be used to design the app for the mobile. It would need to be able to access the weather sites and connect through the phone to the GPS to pass data back and forth when required.<br>
       <p>
-      Eclipse IDE for Java Developers – This will be used for the bulk of the programming.
+      Eclipse IDE for Java Developers (eclipse.org 2020)– This will be used for the bulk of the programming.
     </p>
     <h3>Skills Required</h3>
     <p>
-    To start, analytical skills are needed to break the idea down in order to determine how to work on it. Creativity would be used to design the GUI that would give the rider the information they need. This type of idea would require multiple people working on different aspects of it, so a thorough knowledge of the programming language for what they’re working on, coupled with good communication skills are required. Once written, there would need to be skills in problem solving to troubleshoot any problems and be able to finalise a working product, both in functionality and usefulness. 
+    Using 'Project management Guide FAQ' (wrike.com 2020) as a rough guide, analytical skills are needed to break the idea down in order to determine how to work on it. Creativity would be used to design the GUI that would give the rider the information they need. This type of idea would require multiple people working on different aspects of it, so a thorough knowledge of the programming language for what they’re working on, coupled with good communication skills are required. Once written, there would need to be skills in problem solving to troubleshoot any problems and be able to finalise a working product, both in functionality and usefulness. 
     </p>
     <h3>Outcome</h3>
     <p>
