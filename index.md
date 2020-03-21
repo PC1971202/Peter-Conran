@@ -75,7 +75,7 @@
         <p>
     https://www.seek.com.au/job/41184943?type=standard#searchRequestToken=89dbfeb3-bc4b-4788-b1ed-11741dd0ad42
       <p>
-      Although I’m relatively new to this industry, my current choice of position would be I.T. Project Manager. I like the idea of coordinating multiple inputs by different people into one cohesive product or service. But this job would require knowledge of all aspects of the technology and service involved and while this would require a large amount of my own knowledge coupled with research, unfortunately I’m a long way away from this type of position at the moment. The I.T. Technical side is what I’m currently lacking, though I do have skills in organisation and communication that would be utilised.
+      Although I’m relatively new to this industry, my current choice of position would be I.T. Project Manager. I like the idea of coordinating multiple inputs by different people into one cohesive product or service. But this job would require knowledge of all aspects of the technology and service involved and while this would require a large amount of my own knowledge coupled with research, unfortunately I’m a long way away from this type of position at the moment. The I.T. technical side is what I’m currently lacking, though I do have skills in organisation and communication that would be utilised.
 
     </p>
         <h2>PROFILE</h2>
