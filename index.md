@@ -23,6 +23,10 @@
   <td>RMIT Student number:</td>
   <td>S3858526</td>
 </tr>
+ <tr>
+  <td>Email::</td>
+  <td>s3858526@student.rmit.edu.au</td>
+</tr>
 <tr>
   <td>Age:</td>
   <td>49</td>
