@@ -14,7 +14,7 @@
     
         <h2>PERSONAL INFORMATION</h2>
         <p>
-  <h3>RMIT Student number:</h3> S3858526<br>
+  <h4>RMIT Student number:</h4> S3858526<br>
 Email: s3858526@student.rmit.edu.au<br>
 49 year old sound engineer<br>
 Nationality: Australian<br>
@@ -39,15 +39,15 @@ Hobbies: I enjoy 5.1 audio, cinema and oxygen.<br>
     </p>
         <h2>PROJECT IDEAS</h2>
         
-        Overview
+        <h3>Overview</h3>
     <p>
     My idea is a motorcycle GPS that does more than show you the route; it also shows you the weather along the route and gives the rider warnings about upcoming rain by connecting to the riders mobile phone and downloading updated data at intervals specified by the user. It is primarily software that can use existing cheaper GPS units that are running Windows CE, which are also equipped with Bluetooth connectivity ability. 
     </p>
-    Motivation
+    <h3>Motivation</h3>
     <p>
     In 2018, it was estimated that there were around 861,000 registered motorcycles in Australia. As a rider myself, I have often taken long rides such as Wollongong to Melbourne and Wollongong to Noosa. Since these rides cover a great distance and take a great deal of time, I’ve often found myself having to check the weather reports for other towns along the ride and then calculating where I will be and at what time to see whether I encounter any rain.  It can be time-consuming and require a fair bit of calculating, so an easier way is needed. 
     </p>
-    Description
+    <h3>Description</h3>
     <p>
     For the sake of the description, the GPS unit aspect of it will be referred to as a “program” and the mobile phone side of it will be referred to as an “app”.
     </p>
@@ -61,7 +61,21 @@ The mobile app would be the data link for the program. Once paired, the GPS woul
 The program software would be loadable into an existing GPS unit such as the one sold by FODSports. These are generic GPS units, badged by companies who didn’t develop them and then they install third-party software such as I-Go to cover their navigation needs.  As their maps are loaded onto a microSD card in a card slot, any new program would also be able to access them if needed. These GPS units are perfect since they are designed to be used by riders wearing gloves, which can be a problem with using a car GPS unit on a bike.
 
     </p>
-    <b>Tools and Technologies</b>
+    <h3>Tools and Technologies</h3>
+    <p>
+    FODSports 5 Inch Motorcycle Bluetooth Waterproof GPS Navigation for Car/Motorbike - Running Windows CE and relatively inexpensive, this unit is perfect for what is required.
+      Bluetooth Radar – This is a windows program for Bluetooth connections, though I’m not sure if I need this.
+      APK Pure Designer Tools – This app developer would be used to design the app for the mobile. It would need to be able to access the weather sites and connect through the phone to the GPS to pass data back and forth when required.
+      Eclipse IDE for Java Developers – This will be used for the bulk of the programming.
+    </p>
+    <h3>Skills Required</h3>
+    <p>
+    
+    </p>
+    <h3>Outcome</h3>
+    <p>
+    
+    </p>
 
    <img src="https://scontent.fsyd4-1.fna.fbcdn.net/v/t31.0-8/11103136_10152773909648176_6000494330425648119_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_eui2=AeGcJ6ZhgIN7qa8Xav_2bRri-jFOp-moCkVMJ_xCYnTVoWOa8SPcxiR68UeuNADe4yibe5McwqQf0T3LY_4fwnTV3dIQluTrPSucfQp-jPlZEA&_nc_ohc=fbWW2sOopW0AX-hZsif&_nc_ht=scontent.fsyd4-1.fna&oh=90aa241a616c746ce304dd95b835e11e&oe=5E9A9FF3">
 
