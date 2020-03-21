@@ -14,8 +14,8 @@
     
         <h2>PERSONAL INFORMATION</h2>
         <p>
-  RMIT Student number: S3858526
-Email: s3858526@student.rmit.edu.au
+  RMIT Student number: S3858526(br>
+Email: s3858526@student.rmit.edu.au<br>
 49 year old sound engineer
 Australian
 Diploma of Sound Engineering – School of Audio Engineering
