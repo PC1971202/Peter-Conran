@@ -130,12 +130,14 @@
     </p>
 
       <h2>REFERENCES</h2>
-
+        
+        2012, ’40 Vintage Computer Ads of Yesteryears’, pixel-push.com, viewed 15 March 2020, <http://www.pixel-push.com/2012/09/26/40-vintage-computer-ads-of-yesteryears/>.
+        <p>
       2018, ’Number of motorcycles on register in Australia in 2018, by state’, statista.com, viewed 17 March 2020 <https://www.statista.com/statistics/824844/australia-number-of-registered-motorcycles>.
-
+      </p>
         <p>
       2020, ‘Designer Tools’, Sheff’s Blend, apkpure.com, viewed 17 March 2020, <https://apkpure.com/designer-tools/com.scheffsblend.designertools>.
-    </p>
+      </p>
       <p>
       2020, ‘Eclipse IDE for Java Developers’, eclipse.org, viewed 17 March 2020, <https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers>.
       </p>  
