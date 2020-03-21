@@ -49,7 +49,17 @@ Hobbies: I enjoy 5.1 audio, cinema and oxygen.<br>
     </p>
     Description
     <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at sollicitudin orci. Donec accumsan quam et rutrum malesuada. Sed et ligula finibus, fermentum eros at, elementum est. Duis faucibus elementum mauris, et suscipit nisi lobortis at. Suspendisse gravida venenatis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce facilisis eros sapien, at fringilla eros faucibus sit amet. Integer ac orci mi. Vestibulum aliquet nulla tellus, vel vehicula sapien pulvinar sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu tellus non ipsum aliquam ultricies eget eu dolor. Vivamus eu mi ac lectus sagittis egestas ac vitae nisi. Aliquam erat volutpat.
+    For the sake of the description, the GPS unit aspect of it will be referred to as a “program” and the mobile phone side of it will be referred to as an “app”.
+    </p>
+    <p>
+Firstly, the program would need to be a self-contained GPS program similar to I-Go but with added enhancements. It would need to access a weather site, like accuweather or weatherzone. The source of the weather information would need to have the ability to calculate the weather hourly. The program wouldn’t access the weather site until a route had been planned. From there, it would search the weather website for the towns along the route and download their hourly weather information for the duration of the ride. Initially, the program would begin calculating from the moment the GPS route is defined like a normal GPS, however there will also be the option to input the theoretical time and date the trip would be starting. There would be a warning that this information is liable to change (the warning would have a “do not show this again” checkbox to prevent it being annoying on each route plan) but it would help the rider work out the best time to ride.</p>
+<p>
+Another aspect would be a weather-based trip planner. The rider would input the route and the GPS would instruct the rider the best time to leave in order to avoid rain. The rider would be warned if the route would have rain along the way. </P>
+<p>
+If a rider is riding towards rain, the program would have a small red warning in the upper corner to alert the rider. As it would be impossible to know the exact time rain would start, it would simply say “Rain Predicted” and would disappear once the rider left the affected area. Other warnings could be “Rain Possible” or “Strong Wind Warning” which can also prove hazardous to riders.</p>
+The mobile app would be the data link for the program. Once paired, the GPS would connect to the app. I think the app should be the brain where the weather data retrieval is done, then sent to the program. On the app, the user would previously specify how often the data is accessed, though this would be overridden if the possibility of rain increases once the rider is on the road. In this situation, the app would default to updating its weather data once an hour, regardless of the user settings.
+The program software would be loadable into an existing GPS unit such as the one sold by FODSports. These are generic GPS units, badged by companies who didn’t develop them and then they install third-party software such as I-Go to cover their navigation needs.  As their maps are loaded onto a microSD card in a card slot, any new program would also be able to access them if needed. These GPS units are perfect since they are designed to be used by riders wearing gloves, which can be a problem with using a car GPS unit on a bike.
+
     </p>
     <b>Tools and Technologies</b>
 
