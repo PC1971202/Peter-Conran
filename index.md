@@ -44,7 +44,7 @@
 </tr>
 <tr>
   <td>Qualifications:</td>
-  <td>1992 - Diploma of Audio Engineering - SAE</td>
+  <td>1992 - Diploma of Audio Engineering - SAE Sydney</td>
 </tr>
 <tr>
   <td></td>
